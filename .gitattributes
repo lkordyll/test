@@ -6,3 +6,4 @@
 docs/** export-ignore
 *.lock merge=ours
 *.myscript linguist-language=Python
+*.txt filter=upper
