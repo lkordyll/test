@@ -3,3 +3,6 @@
 .ipg binary
 .png binary
 *.txt merge=ours
+docs/** export-ignore
+*.lock merge=ours
+*.myscript linguist-language=Python
